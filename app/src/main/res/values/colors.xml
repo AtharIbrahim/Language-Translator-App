@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blacklight">#424242</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="blue">#2196F3</color>
+    <color name="red">#F44336</color>
+    <color name="btn">#F7FF6F22</color>
+    <color name="crossBtn">#F7AFAFAF</color>
+    <color name="green">#4CAF50</color>
+    <color name="grey">#727272</color>
+    <color name="hint">#727272</color>
+    <color name="spinner">#C9E5FD</color>
+</resources>

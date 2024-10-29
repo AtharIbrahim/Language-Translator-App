@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/group1">
+        <item
+            android:icon="@drawable/baseline_language_24"
+            android:id="@+id/navLanguages"
+            android:title="Languages" />
+        <item
+            android:icon="@drawable/baseline_thumb_up_alt_24"
+            android:id="@+id/navRateUs"
+            android:title="Rate Us" />
+        <item
+            android:icon="@drawable/baseline_share_24"
+            android:id="@+id/navShareApp"
+            android:title="Share App" />
+        <item
+            android:icon="@drawable/baseline_privacy_tip_24"
+            android:id="@+id/navPrivacy"
+            android:title="Privacy Policy" />
+    </group>
+</menu>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="google_translate_api_key">Your Google Translator API</string>
+    <string name="app_id">Your App ID</string>
+    <string name="banner_ad_unit_id">Banner AD ID</string>
+    <string name="inter_ads_unit_id">Inter AD ID</string>
+    <string name="Open_app_add_id">App Open AD ID</string>
+    <string name="Reward_unit_id">Reward AD ID</string>
+    <string name="app_version">Version 1.0.0</string>
+
+</resources>
