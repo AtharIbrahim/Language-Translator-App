@@ -58,8 +58,9 @@ To configure your API and Ad IDs, add the following strings to your project:
 ## 👤 Author
 
 - **Name**: Athar Ibrahim Khalid
-- **GitHub**: [AtharIbrahim](https://github.com/AtharIbrahim/)
-- **LinkedIn**: [Athar Ibrahim Khalid](https://www.linkedin.com/in/athar-ibrahim-khalid-0715172a2/)
+- **GitHub**: [https://github.com/AtharIbrahim/](https://github.com/AtharIbrahim/)
+- **LinkedIn**: [https://www.linkedin.com/in/athar-ibrahim-khalid-0715172a2/](https://www.linkedin.com/in/athar-ibrahim-khalid-0715172a2/)
+- **LinkedIn**: [Athar Ibrahim Khalid](https://atharibrahimkhalid.netlify.app/)
 
 
 ## 📝 License
